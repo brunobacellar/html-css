@@ -1,0 +1,24 @@
+div {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    padding: 30px;
+}
+
+#som {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 10px;
+    
+}
+
